@@ -1,7 +1,7 @@
 const products = {
-  Bebida: 'Soda',
-  Fruta: 'Apple',
-  Higiene: 'Soap',
+  Beverage: 'Soda',
+  Fruit: 'Apple',
+  Hygiene: 'Soap',
 };
 
 function chooseProduct(segment) {
