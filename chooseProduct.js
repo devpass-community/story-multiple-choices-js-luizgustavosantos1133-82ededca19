@@ -1,5 +1,11 @@
+const products = {
+  Bebida: 'Soda',
+  Fruta: 'Apple',
+  Higiene: 'Soap',
+};
+
 function chooseProduct(segment) {
-    // Add your solution here!
+  return products[segment];
 }
 
 module.exports = chooseProduct;
